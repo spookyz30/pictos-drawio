@@ -1,1 +1,11 @@
+<mxlibrary>
 
+  <library name="UI">
+
+    <shape name="Button" w="80" h="40">
+      <image src="https://raw.githubusercontent.com/spookyz30/pictos-drawio/main/images/ui/button.png"/>
+    </shape>
+
+  </library>
+
+</mxlibrary>
