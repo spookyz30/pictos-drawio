@@ -1,36 +1,9 @@
 <mxlibrary>
 
-  <!-- ================= UI ================= -->
   <library name="UI">
 
     <shape name="Button" w="80" h="40">
       <image src="https://raw.githubusercontent.com/spookyz30/pictos-drawio/main/images/ui/button.png"/>
-    </shape>
-
-    <shape name="Input" w="80" h="40">
-      <image src="https://raw.githubusercontent.com/spookyz30/pictos-drawio/main/images/ui/input.png"/>
-    </shape>
-
-  </library>
-
-  <!-- =============== NETWORK =============== -->
-  <library name="Network">
-
-    <shape name="Router" w="60" h="60">
-      <image src="https://raw.githubusercontent.com/spookyz30/pictos-drawio/main/images/network/router.png"/>
-    </shape>
-
-    <shape name="Server" w="60" h="60">
-      <image src="https://raw.githubusercontent.com/spookyz30/pictos-drawio/main/images/network/server.png"/>
-    </shape>
-
-  </library>
-
-  <!-- ================ DB ================= -->
-  <library name="Database">
-
-    <shape name="MySQL" w="60" h="60">
-      <image src="https://raw.githubusercontent.com/spookyz30/pictos-drawio/main/images/db/mysql.png"/>
     </shape>
 
   </library>
